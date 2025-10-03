@@ -92,8 +92,12 @@
 
 <h2 align="left">🔥 My Projects</h2>
 
-###
-
-<p align="left">In progress...</p>
-
-###
+### [To-do App](https://github.com/hiepnguyen06/naver-todo-app)
+**Description**: Simple web app that allows users to create and manage their todo lists. Developed as part of the preliminary assignment for NAVER AI HACKATHON.  
+**Tech stack**: TypeScript, React, Chakra UI  
+**Key features**:
+  - Perform basic CRUD operations  
+  - Filter tasks by dates, status, and importance  
+  - Switch between dark/light theme  
+  - Progress bar tracking percentage of completed tasks  
+  - Use of local storage for persistence  
