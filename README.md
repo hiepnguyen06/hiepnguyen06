@@ -92,6 +92,20 @@
 
 <h2 align="left">🔥 My Projects</h2>
 
+### [E-Motorbike Rental Console App](https://github.com/hiepnguyen06/motorbike-rental)
+**Description**:  
+A C++ console-based management system developed as part of the final project for the Software Engineering Design course. The system enables users to list, rent, and manage electric motorbikes with distinct roles for guests, members, and admins. The project received a High Distinction grade (97/100).  
+**Tech stack**: C++20  
+**Key features**:  
+- Role-based navigation for Guest, Member, and Admin
+- Member registration, login, and profile management with validation
+- Motorbike registration, editing, and rating system
+- Listing creation with overlap prevention and city/date filters
+- Rental request and approval workflow with CP (credit points) system
+- Feedback and rating for both owners and renters
+- Persistent data storage in JSON format
+- Console UI with colorized output and structured menus
+
 ### [To-do App](https://github.com/hiepnguyen06/naver-todo-app)
 **Description**: Simple web app that allows users to create and manage their todo lists. Developed as part of the preliminary assignment for NAVER AI HACKATHON.  
 **Tech stack**: TypeScript, React, Chakra UI  
