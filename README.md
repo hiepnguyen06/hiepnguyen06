@@ -83,12 +83,33 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
 
 <h2 align="left">🔥 My Projects</h2>
+
+### [OraLab — AI IELTS Speaking Practice Platform](https://github.com/hiepnguyen06/oralab)
+**Description**:  
+A full-stack web application that simulates authentic IELTS speaking test conditions using real-time AI voice interaction. Users engage in a live, voice-based mock test where the AI acts as a human examiner — generating exam-realistic questions on the fly, conducting all three parts of the IELTS Speaking test, and probing responses with natural follow-up questions. Developed for LotusHacks 2026 as team backend engineer. Developed for the LotusHacks 2026 Hackathon.
+**Tech stack**: React 19, TypeScript, Vite, Tailwind CSS v4, Express.js, WebSocket, Supabase (PostgreSQL), OpenAI GPT-4o, ElevenLabs STT/TTS  
+**Key features**:  
+- Full audio processing and response pipeline (ElevenLabs STT -> GPT4.0 -> ElevenLabs) for reliable and grounded AI responses via speech 
+- Domain-specific question generation across different IELTS topics 
+- Post-session band score evaluation modelled on the four official IELTS rubrics
+- Strength and error highlighting with specific quoted moments from session transcripts
+- Full transcripts with speaker labels and timestamps
+- Monorepo architecture (npm workspaces) with separate client and server packages
+
+### [NavNexus — Multilingual Knowledge Graph Navigator](https://github.com/hnagnurtme/NavNexus)
+**Description**:  
+An AI-driven platform that transforms scattered, multilingual research documents into a living, interactive Knowledge Graph. Turns static mindmaps into an immersive Knowledge Journey by harmonizing multilingual terminology, visualizing entity relationships, and enabling semantic queries through logical reasoning over the graph. Developed for the Naver Vietnam AI Hackathon 2025 by Team TheElite.  
+**Tech stack**: React 18, TypeScript, Vite, Tailwind CSS, ASP.NET Core 8, Neo4j, Qdrant, RabbitMQ, HyperCLOVA X, Papago Translation API, Docker  
+**Key features**:  
+- Integrity Engine that harmonizes multilingual research terms into unified entities using HyperCLOVA X
+- Discovery Map for visualizing the evolving Knowledge Graph built on Neo4j with relationship and pattern exploration
+- Inference Engine supporting natural language semantic queries with logical reasoning over the graph
+- Recommendation Assistant that detects knowledge gaps (orphan nodes, broken bridges) and suggests multilingual search keywords
 
 ### [E-Motorbike Rental Console App](https://github.com/hiepnguyen06/motorbike-rental)
 **Description**:  
