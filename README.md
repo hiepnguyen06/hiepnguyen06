@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Hiep Nguyen, a software engineering student at RMIT Vietnam. I am passionate in developing full stack applications.</p>
+<p align="left">I'm Hiep Nguyen, a Software Engineering student at RMIT Vietnam who loves turning ideas into working software. I'm especially drawn to fullstack development and AI integrations. If there's a problem worth solving, I want to build the system that solves it.</p>
 
 ###
 
